@@ -2,7 +2,7 @@
 
 function Home(){
     return (
-        <h1>Teste</h1>
+        <h1>Da minha salada de frutas fedo</h1>
     )
 }
 
